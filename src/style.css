@@ -1,0 +1,25 @@
+body{
+    margin :20px;
+background-color: rgb(178, 176, 176);
+}
+.input{
+    
+
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+}
+.select{
+    
+    padding:10px;
+    width:100px
+}
+.stack{
+    padding:10px;
+    width:100px
+}
+#submit{
+    padding:10px;
+    width:100px;
+    background-color: black; 
+}
